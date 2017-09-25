@@ -1,4 +1,8 @@
 #/usr/bin/python3
+
+# Useful stuff:
+# https://docs.python.org/3.6/library/sqlite3.html
+
 print("######")
 
 import sqlite3
